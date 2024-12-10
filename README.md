@@ -36,5 +36,14 @@ Una tecnología que permite la comunicación interactiva entre un navegador y un
 principales diferencias entre ellos?
 REST y SOAP son dos protocolos de comunicación utilizados en la web con enfoques diferentes para el intercambio de datos. REST se centra en la simplicidad y la escalabilidad horizontal, lo que lo hace adecuado para aplicaciones web y móviles. Por otro lado, SOAP se centra en la confiabilidad y la escalabilidad vertical, lo que lo hace adecuado para aplicaciones empresariales y de misión crítica que requieren alta seguridad y confiabilidad. Ambos protocolos tienen ventajas y desventajas, y la elección entre ellos depende de las necesidades específicas del proyecto en cuestión.
 
-8. ¿Qué es Kubernetes y cuál es su función en el despliegue y gestión de aplicaciones en
+6. ¿Qué es Kubernetes y cuál es su función en el despliegue y gestión de aplicaciones en
 contenedores?
+Es una herramienta de código abierto que permite implementar, escalar y administrar aplicaciones en contenedores. Su función es automatizar las tareas operativas de la gestión de los contenedores, lo que facilita la administración de las aplicaciones. 
+Kubernetes se puede usar para:
+Desplegar aplicaciones
+Aplicar cambios a las aplicaciones
+Ampliar o reducir las aplicaciones según las necesidades
+Monitorizar las aplicaciones
+Escalar los sistemas de contenedores
+Coordinar los contenedores
+Programar los contenedores 
