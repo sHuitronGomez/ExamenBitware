@@ -28,7 +28,7 @@ API
 Interfaz de programación de aplicaciones, que es un componente de software que actúa como intermediario entre dos aplicaciones. 
 Sockets
 Una colección de llamadas que permiten establecer conexiones, enviar y recibir datos, y cerrar conexiones entre programas de aplicación. 
-WebSockets
+WebServices
 Una tecnología que permite la comunicación interactiva entre un navegador y un servidor, enviando y recibiendo mensajes sin necesidad de consultar al servidor para una respuesta. 
 
 
