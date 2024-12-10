@@ -32,7 +32,9 @@ WebServices
 Una tecnología que permite la comunicación interactiva entre un navegador y un servidor, enviando y recibiendo mensajes sin necesidad de consultar al servidor para una respuesta. 
 
 
-7. ¿Qué significa REST y SOAP en el contexto de servicios web? ¿Cuáles son las
+5. ¿Qué significa REST y SOAP en el contexto de servicios web? ¿Cuáles son las
 principales diferencias entre ellos?
+REST y SOAP son dos protocolos de comunicación utilizados en la web con enfoques diferentes para el intercambio de datos. REST se centra en la simplicidad y la escalabilidad horizontal, lo que lo hace adecuado para aplicaciones web y móviles. Por otro lado, SOAP se centra en la confiabilidad y la escalabilidad vertical, lo que lo hace adecuado para aplicaciones empresariales y de misión crítica que requieren alta seguridad y confiabilidad. Ambos protocolos tienen ventajas y desventajas, y la elección entre ellos depende de las necesidades específicas del proyecto en cuestión.
+
 8. ¿Qué es Kubernetes y cuál es su función en el despliegue y gestión de aplicaciones en
 contenedores?
