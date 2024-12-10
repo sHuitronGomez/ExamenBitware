@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.rest.productos.model.Producto;
-import com.rest.productos.model.service.ProductoService;
+import com.rest.productos.service.ProductoService;
 
 @RestController
 public class ProductoController {

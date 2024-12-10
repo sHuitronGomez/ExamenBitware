@@ -1,4 +1,4 @@
-package com.rest.productos.model.service;
+package com.rest.productos.service;
 
 import java.util.List;
 
