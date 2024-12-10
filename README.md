@@ -23,6 +23,15 @@ Los patrones de diseño de J2EE han sido divididos en capas (presentación, nego
  
 4. ¿Qué son las APIs, sockets y webservices? ¿Cuál es su propósito en el desarrollo de
 aplicaciones?
+Son tecnologías que permiten la comunicación entre aplicaciones, programas y servidores:
+API
+Interfaz de programación de aplicaciones, que es un componente de software que actúa como intermediario entre dos aplicaciones. 
+Sockets
+Una colección de llamadas que permiten establecer conexiones, enviar y recibir datos, y cerrar conexiones entre programas de aplicación. 
+WebSockets
+Una tecnología que permite la comunicación interactiva entre un navegador y un servidor, enviando y recibiendo mensajes sin necesidad de consultar al servidor para una respuesta. 
+
+
 7. ¿Qué significa REST y SOAP en el contexto de servicios web? ¿Cuáles son las
 principales diferencias entre ellos?
 8. ¿Qué es Kubernetes y cuál es su función en el despliegue y gestión de aplicaciones en
